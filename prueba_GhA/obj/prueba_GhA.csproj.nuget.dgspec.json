@@ -48,6 +48,10 @@
               "target": "Package",
               "version": "[3.13.2, )"
             },
+            "NUnit.Allure": {
+              "target": "Package",
+              "version": "[1.2.1.1, )"
+            },
             "NUnit3TestAdapter": {
               "target": "Package",
               "version": "[4.0.0, )"
