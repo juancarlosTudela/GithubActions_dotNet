@@ -5,18 +5,18 @@ jobs:
 deploy-docker-compose:
   runs-on: ubuntu-latest
   steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@master
     - name: Build the docker-compose up 
       timeout-minutes: 2
       run: docker-compose up -d
 
-      - name: Check running containers
+    - name: Check running containers
         run: docker ps
 
-      - name: Run tests
+    - name: Run tests
         run: dotnet test
 
-      - name: Build the docker compose down
+    - name: Build the docker compose down
         timeout-minutes: 2
         run: docker-compose down
 

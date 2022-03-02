@@ -1,4 +1,3 @@
-
 on: push
 name: Deploy
 jobs: 
@@ -10,13 +9,13 @@ deploy-docker-compose:
       timeout-minutes: 2
       run: docker-compose up -d
 
-      - name: Check running containers
+    - name: Check running containers
         run: docker ps
 
-      - name: Run tests
+    - name: Run tests
         run: dotnet test
 
-      - name: Build the docker compose down
+    - name: Build the docker compose down
         timeout-minutes: 2
         run: docker-compose down
 
