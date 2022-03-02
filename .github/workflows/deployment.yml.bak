@@ -5,7 +5,7 @@ jobs:
 deploy-docker-compose:
   runs-on: ubuntu-latest
   steps:
-    - uses: actions/checkout@master
+    - uses: actions/checkout@v1
     - name: Build the docker-compose up 
       timeout-minutes: 2
       run: docker-compose up -d
