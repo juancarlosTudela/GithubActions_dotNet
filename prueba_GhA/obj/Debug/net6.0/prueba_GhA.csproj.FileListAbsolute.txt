@@ -100,3 +100,7 @@ C:\Users\Usuario\Desktop\C#\prueba_GhA\prueba_GhA\obj\Debug\net6.0\prueba_GhA.dl
 C:\Users\Usuario\Desktop\C#\prueba_GhA\prueba_GhA\obj\Debug\net6.0\ref\prueba_GhA.dll
 C:\Users\Usuario\Desktop\C#\prueba_GhA\prueba_GhA\obj\Debug\net6.0\prueba_GhA.pdb
 C:\Users\Usuario\Desktop\C#\prueba_GhA\prueba_GhA\obj\Debug\net6.0\prueba_GhA.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\C#\prueba_GhA\prueba_GhA\bin\Debug\net6.0\Allure.Commons.dll
+C:\Users\Usuario\Desktop\C#\prueba_GhA\prueba_GhA\bin\Debug\net6.0\AspectInjector.Broker.dll
+C:\Users\Usuario\Desktop\C#\prueba_GhA\prueba_GhA\bin\Debug\net6.0\MimeTypesMap.dll
+C:\Users\Usuario\Desktop\C#\prueba_GhA\prueba_GhA\bin\Debug\net6.0\NUnit.Allure.dll

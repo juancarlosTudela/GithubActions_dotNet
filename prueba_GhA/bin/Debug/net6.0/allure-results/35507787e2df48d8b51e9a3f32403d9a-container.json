@@ -1,0 +1,44 @@
+{
+  "uuid": "f8473ba6-eef1-426a-b777-2e0c07c51054-tc-0-1000",
+  "name": "prueba_GhA.Tests.Test1",
+  "children": [
+    "de452858-a883-4caa-91cf-102571f49d85-tr-0-1001"
+  ],
+  "befores": [
+    {
+      "name": "Setup",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1646320656990,
+      "stop": 1646320656990
+    }
+  ],
+  "afters": [
+    {
+      "name": "TearDown",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1646320656991,
+      "stop": 1646320656991
+    }
+  ],
+  "links": [],
+  "start": 1646320644652,
+  "stop": 1646320657061
+}

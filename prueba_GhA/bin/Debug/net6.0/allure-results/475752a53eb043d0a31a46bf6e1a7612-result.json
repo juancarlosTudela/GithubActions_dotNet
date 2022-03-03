@@ -1,0 +1,106 @@
+{
+  "uuid": "de452858-a883-4caa-91cf-102571f49d85-tr-0-1001",
+  "historyId": "prueba_GhA.Tests.Test1",
+  "fullName": "prueba_GhA.Tests.Test1",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "LAPTOP-CIPI72G2"
+    },
+    {
+      "name": "package",
+      "value": "prueba_GhA"
+    },
+    {
+      "name": "testMethod",
+      "value": "Test1"
+    },
+    {
+      "name": "testClass",
+      "value": "Tests"
+    },
+    {
+      "name": "tag",
+      "value": "SampleTag"
+    },
+    {
+      "name": "tag",
+      "value": "NUnit"
+    },
+    {
+      "name": "tag",
+      "value": "Debug"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "feature",
+      "value": "Core"
+    }
+  ],
+  "links": [],
+  "name": "Test1",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Test1",
+    "trace": "   at prueba_GhA.Tests.<>c.<Test1>b__4_0() in C:\\Users\\Usuario\\Desktop\\C#\\prueba_GhA\\prueba_GhA\\UnitTest1.cs:line 44\r\n   at NUnit.Allure.Core.AllureExtensions.WrapInStep(AllureLifecycle lifecycle, Action action, String stepName, String callerName)\r\n   at prueba_GhA.Tests.Test1() in C:\\Users\\Usuario\\Desktop\\C#\\prueba_GhA\\prueba_GhA\\UnitTest1.cs:line 42\r\n"
+  },
+  "stage": "finished",
+  "description": "Test1\n",
+  "steps": [
+    {
+      "name": "Test1",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "",
+        "trace": "   at prueba_GhA.Tests.<>c.<Test1>b__4_0() in C:\\Users\\Usuario\\Desktop\\C#\\prueba_GhA\\prueba_GhA\\UnitTest1.cs:line 44\r\n   at NUnit.Allure.Core.AllureExtensions.WrapInStep(AllureLifecycle lifecycle, Action action, String stepName, String callerName)\r\n   at prueba_GhA.Tests.Test1() in C:\\Users\\Usuario\\Desktop\\C#\\prueba_GhA\\prueba_GhA\\UnitTest1.cs:line 42\r\n"
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "Google Search",
+          "status": "broken",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false,
+            "message": "",
+            "trace": "   at NUnit.Framework.Assert.Pass(String message, Object[] args)\r\n   at NUnit.Framework.Assert.Pass()\r\n   at prueba_GhA.Tests.<>c.<Test1>b__4_0() in C:\\Users\\Usuario\\Desktop\\C#\\prueba_GhA\\prueba_GhA\\UnitTest1.cs:line 44\r\n   at NUnit.Allure.Core.AllureExtensions.WrapInStep(AllureLifecycle lifecycle, Action action, String stepName, String callerName)"
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1646320656283,
+          "stop": 1646320656647
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "72b6a19a61a141368e01a836b5d3784f-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1646320644657,
+      "stop": 1646320656994
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1646320644656,
+  "stop": 1646320657006
+}
