@@ -4,5 +4,10 @@
   "reportName" : "Allure Report with history",
   "data" : { }
 }, {
+  "buildOrder" : 13,
+  "reportUrl" : "https://juancarlosTudela.github.io/GithubActions_dotNet/13/",
+  "reportName" : "Allure Report with history",
+  "data" : { }
+}, {
   "data" : { }
 } ]

@@ -3,6 +3,13 @@
   "reportUrl" : "https://juancarlosTudela.github.io/GithubActions_dotNet/13/",
   "reportName" : "Allure Report with history",
   "data" : {
+    "duration" : 2692
+  }
+}, {
+  "buildOrder" : 13,
+  "reportUrl" : "https://juancarlosTudela.github.io/GithubActions_dotNet/13/",
+  "reportName" : "Allure Report with history",
+  "data" : {
     "duration" : 2782
   }
 }, {

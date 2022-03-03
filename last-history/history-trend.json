@@ -11,6 +11,18 @@
     "total" : 1
   }
 }, {
+  "buildOrder" : 13,
+  "reportUrl" : "https://juancarlosTudela.github.io/GithubActions_dotNet/13/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 1,
+    "unknown" : 0,
+    "total" : 1
+  }
+}, {
   "data" : {
     "failed" : 0,
     "broken" : 0,

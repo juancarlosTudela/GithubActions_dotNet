@@ -1,0 +1,170 @@
+{
+  "uid" : "392fddfe7350793b",
+  "name" : "Test1",
+  "fullName" : "prueba_GhA.Tests.Test1",
+  "historyId" : "prueba_GhA.Tests.Test1",
+  "time" : {
+    "start" : 1646338305974,
+    "stop" : 1646338308666,
+    "duration" : 2692
+  },
+  "description" : "Test1\n",
+  "descriptionHtml" : "<p>Test1</p>\n",
+  "status" : "passed",
+  "statusMessage" : "Test1",
+  "statusTrace" : "   at prueba_GhA.Tests.<>c.<Test1>b__4_0() in /home/runner/work/GithubActions_dotNet/GithubActions_dotNet/prueba_GhA/UnitTest1.cs:line 44\n   at NUnit.Allure.Core.AllureExtensions.WrapInStep(AllureLifecycle lifecycle, Action action, String stepName, String callerName)\n   at prueba_GhA.Tests.Test1() in /home/runner/work/GithubActions_dotNet/GithubActions_dotNet/prueba_GhA/UnitTest1.cs:line 42\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "Setup",
+    "time" : {
+      "start" : 1646338308661,
+      "stop" : 1646338308661,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Test1\n",
+    "status" : "passed",
+    "statusMessage" : "Test1",
+    "statusTrace" : "   at prueba_GhA.Tests.<>c.<Test1>b__4_0() in /home/runner/work/GithubActions_dotNet/GithubActions_dotNet/prueba_GhA/UnitTest1.cs:line 44\n   at NUnit.Allure.Core.AllureExtensions.WrapInStep(AllureLifecycle lifecycle, Action action, String stepName, String callerName)\n   at prueba_GhA.Tests.Test1() in /home/runner/work/GithubActions_dotNet/GithubActions_dotNet/prueba_GhA/UnitTest1.cs:line 42\n",
+    "steps" : [ {
+      "name" : "Test1",
+      "time" : {
+        "start" : 1646338305974,
+        "stop" : 1646338308662,
+        "duration" : 2688
+      },
+      "status" : "passed",
+      "statusMessage" : "",
+      "statusTrace" : "   at prueba_GhA.Tests.<>c.<Test1>b__4_0() in /home/runner/work/GithubActions_dotNet/GithubActions_dotNet/prueba_GhA/UnitTest1.cs:line 44\n   at NUnit.Allure.Core.AllureExtensions.WrapInStep(AllureLifecycle lifecycle, Action action, String stepName, String callerName)\n   at prueba_GhA.Tests.Test1() in /home/runner/work/GithubActions_dotNet/GithubActions_dotNet/prueba_GhA/UnitTest1.cs:line 42\n",
+      "steps" : [ {
+        "name" : "Google Search",
+        "time" : {
+          "start" : 1646338308533,
+          "stop" : 1646338308544,
+          "duration" : 11
+        },
+        "status" : "broken",
+        "statusMessage" : "",
+        "statusTrace" : "   at NUnit.Framework.Assert.Pass(String message, Object[] args)\n   at NUnit.Framework.Assert.Pass()\n   at prueba_GhA.Tests.<>c.<Test1>b__4_0() in /home/runner/work/GithubActions_dotNet/GithubActions_dotNet/prueba_GhA/UnitTest1.cs:line 44\n   at NUnit.Allure.Core.AllureExtensions.WrapInStep(AllureLifecycle lifecycle, Action action, String stepName, String callerName)",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : true,
+        "hasContent" : true
+      } ],
+      "attachments" : [ {
+        "uid" : "9d06068edd536243",
+        "name" : "Console Output",
+        "source" : "9d06068edd536243.txt",
+        "type" : "text/plain",
+        "size" : 0
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "TearDown",
+    "time" : {
+      "start" : 1646338308662,
+      "stop" : 1646338308662,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "NonParallelWorker"
+  }, {
+    "name" : "host",
+    "value" : "fv-az204-60"
+  }, {
+    "name" : "package",
+    "value" : "prueba_GhA"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test1"
+  }, {
+    "name" : "testClass",
+    "value" : "Tests"
+  }, {
+    "name" : "tag",
+    "value" : "SampleTag"
+  }, {
+    "name" : "tag",
+    "value" : "NUnit"
+  }, {
+    "name" : "tag",
+    "value" : "Debug"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "feature",
+    "value" : "Core"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "8b19c1cf148f182c",
+        "reportUrl" : "https://juancarlosTudela.github.io/GithubActions_dotNet/13//#testresult/8b19c1cf148f182c",
+        "status" : "passed",
+        "statusDetails" : "Test1",
+        "time" : {
+          "start" : 1646330257752,
+          "stop" : 1646330260534,
+          "duration" : 2782
+        }
+      } ]
+    },
+    "tags" : [ "NUnit", "SampleTag", "Debug" ]
+  },
+  "source" : "392fddfe7350793b.json",
+  "parameterValues" : [ ]
+}

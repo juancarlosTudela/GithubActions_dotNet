@@ -4,11 +4,21 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "392fddfe7350793b",
+      "reportUrl" : "https://juancarlosTudela.github.io/GithubActions_dotNet/13//#testresult/392fddfe7350793b",
+      "status" : "passed",
+      "statusDetails" : "Test1",
+      "time" : {
+        "start" : 1646338305974,
+        "stop" : 1646338308666,
+        "duration" : 2692
+      }
+    }, {
       "uid" : "8b19c1cf148f182c",
       "reportUrl" : "https://juancarlosTudela.github.io/GithubActions_dotNet/13//#testresult/8b19c1cf148f182c",
       "status" : "passed",
