@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "prueba_GhA",
+    "children" : [ {
+      "name" : "Test1",
+      "uid" : "8b19c1cf148f182c",
+      "parentUid" : "3136e24961b90aa21b8f3148f1df3158",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646330257752,
+        "stop" : 1646330260534,
+        "duration" : 2782
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "3136e24961b90aa21b8f3148f1df3158"
+  } ],
+  "name" : "packages"
+}

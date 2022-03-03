@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://juancarlosTudela.github.io/GithubActions_dotNet",
+  "buildOrder" : 13,
+  "buildName" : "GitHub Actions Run #1929587171",
+  "buildUrl" : "https://github.com/juancarlosTudela/GithubActions_dotNet/actions/runs/1929587171",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://juancarlosTudela.github.io/GithubActions_dotNet/13/"
+} ]
